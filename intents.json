@@ -1,0 +1,147 @@
+[
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hello",
+        "Hi",
+        "Hey",
+        "Good morning",
+        "Good evening",
+        "How are you?"
+      ],
+      "responses": [
+        "Hello! How can I help you with your fitness goals today?",
+        "Hi! Ready to get fit?",
+        "Hey there! How can I assist you with fitness?",
+        "Good day! Let's talk fitness."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "Talk to you soon",
+        "Take care"
+      ],
+      "responses": [
+        "Thank you for chatting with me. Stay fit!",
+        "Goodbye! Keep up the great work with your fitness.",
+        "Take care and stay healthy!"
+      ]
+    },
+    {
+      "tag": "hydration",
+      "patterns": [
+        "How much water should I drink?",
+        "What is the importance of hydration?",
+        "How do I stay hydrated?",
+        "hydration",
+        "water intake",
+        "What happens if I don't drink enough water?"
+      ],
+      "responses": [
+        "Drinking water is essential for maintaining hydration, supporting digestion, and overall health.",
+        "Aim to drink at least 8 cups (2 liters) of water a day to stay hydrated.",
+        "Hydration helps with muscle recovery, energy levels, and overall well-being.",
+        "Not drinking enough water can lead to dehydration, which can affect your energy, performance, and health."
+      ]
+    },
+    {
+      "tag": "sleep",
+      "patterns": [
+        "How much sleep do I need?",
+        "What is the importance of sleep?",
+        "How can I improve my sleep quality?",
+        "sleep",
+        "Do I need 8 hours of sleep?"
+      ],
+      "responses": [
+        "Adults typically need around 7-9 hours of sleep for optimal health and fitness.",
+        "Sleep is crucial for muscle recovery, mental clarity, and overall well-being.",
+        "Improving sleep quality involves maintaining a regular sleep schedule, avoiding screens before bed, and creating a calm environment."
+      ]
+    },
+    {
+      "tag": "nutrition",
+      "patterns": [
+        "What should I eat before a workout?",
+        "How can I improve my diet?",
+        "What are some healthy snacks?",
+        "nutrition",
+        "What should I eat to gain muscle?"
+      ],
+      "responses": [
+        "Before a workout, try to have a balanced meal with protein, carbs, and healthy fats.",
+        "To improve your diet, focus on eating whole foods, including plenty of vegetables, fruits, lean proteins, and whole grains.",
+        "Healthy snacks include nuts, fruits, yogurt, and whole-grain crackers.",
+        "For muscle gain, make sure to include protein-rich foods like chicken, fish, eggs, or legumes in your meals."
+      ]
+    },
+    {
+      "tag": "motivation",
+      "patterns": [
+        "I need some motivation!",
+        "Give me some fitness motivation!",
+        "How do I stay motivated to work out?",
+        "motivation",
+        "I'm feeling lazy, help me get back on track!"
+      ],
+      "responses": [
+        "Remember, every workout brings you closer to your fitness goals. Stay consistent, and the results will follow!",
+        "You are stronger than you think! Push through and make today count!",
+        "The hardest part is showing up. Once you start, you'll feel better and stronger!",
+        "Don't give up! Progress takes time, but every step counts."
+      ]
+    },
+    {
+      "tag": "workout",
+      "patterns": [
+        "What are some good workouts for beginners?",
+        "What exercises should I do to get fit?",
+        "Can you suggest a workout plan?",
+        "workout",
+        "What should I do to tone my body?"
+      ],
+      "responses": [
+        "Start with basic exercises like squats, push-ups, and lunges to build a solid foundation.",
+        "To get fit, focus on a mix of strength training and cardiovascular exercises.",
+        "A great workout plan includes a balance of cardio, strength training, and flexibility exercises.",
+        "To tone your body, include exercises that target major muscle groups like squats, planks, and bicep curls."
+      ]
+    },
+    {
+      "tag": "calories",
+      "patterns": [
+        "How many calories should I eat a day?",
+        "What is a good calorie intake for weight loss?",
+        "How do I calculate my daily calorie needs?",
+        "calories",
+        "How many calories are in a banana?"
+      ],
+      "responses": [
+        "Your daily calorie needs depend on factors like your age, gender, and activity level. Use a calorie calculator to get a more accurate estimate.",
+        "To lose weight, aim for a calorie deficit, but make sure you're still getting enough nutrients to stay healthy.",
+        "A medium banana has around 90 calories.",
+        "You can calculate your daily calorie needs by considering your Basal Metabolic Rate (BMR) and activity level."
+      ]
+    },
+    {
+      "tag": "fitness_tips",
+      "patterns": [
+        "Give me some fitness tips!",
+        "How can I improve my fitness?",
+        "What are some tips for beginners?",
+        "fitness tips",
+        "How do I stay on track with my fitness goals?"
+      ],
+      "responses": [
+        "Stay consistent and track your progress to see improvements over time.",
+        "Start with small, achievable goals and gradually increase the intensity of your workouts.",
+        "Don't skip warm-ups and cool-downs; they are essential for injury prevention.",
+        "Listen to your body, take rest days when needed, and stay hydrated."
+      ]
+    }
+  ]
+  
