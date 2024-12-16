@@ -13,7 +13,7 @@ Scikit-learn: Implements machine learning with a Logistic Regression classifier 
 Streamlit: Used for building the interactive web interface.
 CSV: Stores user inputs and chatbot responses, providing a conversation history.
 
-1.Clone or download the repository:
+1.Clone or download the repository-
 git clone https://github.com/yourusername/fitness-chatbot.git
 
 2.cd fitness-chatbot
